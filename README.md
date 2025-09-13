@@ -4,5 +4,5 @@
 Tools & scripts for blockchain experiments and small utilities.
 
 ## Run
-`bas
+`bash
 python main.py
