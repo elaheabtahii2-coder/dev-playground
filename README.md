@@ -1,6 +1,6 @@
 # dev-playground
 . Scalable blockchain project.
-# crypto-la
+# crypto-lab
 Tools & scripts for blockchain experiments and small utilities.
 
 ## Run
